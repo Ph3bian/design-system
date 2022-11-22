@@ -1,4 +1,7 @@
 {
   "name": "@ph3bian/design-system",
-  "version": "0.0.1"
+  "version": "0.0.4",
+  "dependencies": {
+    "typescript": "~4.8.2"
+  }
 }
