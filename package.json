@@ -1,6 +1,6 @@
 {
   "name": "design-system",
-  "version": "0.0.0",
+  "version": "1.0.20",
   "license": "MIT",
   "scripts": {
     "start": "nx serve",
